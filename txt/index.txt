@@ -1,0 +1,2 @@
+https://raw.fastgit.org/biancangming/wtv/master/txt/all.txt
+https://raw.fastgit.org/biancangming/wtv/master/txt/cn.txt

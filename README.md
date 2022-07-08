@@ -1,11 +1,10 @@
-
 > QQ群免费开放中....
 
 [点击链接加入群聊【wtv交流群】，等级低于一个太阳谢绝入内](https://qm.qq.com/cgi-bin/qm/qr?k=xdOuWd8gz2OHO5zY_jvjwzwj-fb_7O2I&jump_from=webapi)
 
 > 长期更新，建议收藏本页面，资源来源网络，可用性未逐一验证，尽可能保证大多资源可用。
 
-# 最新IPTV直播源m3u8下载，电视直播网站推荐
+# 最新IPTV直播源m3u8下载，电视直播网站推荐，原则上以中文频道为主
 
 - [https://github.com/biancangming/wtv/wiki/最新IPTV直播源m3u8下载，电视直播网站推荐](https://github.com/biancangming/wtv/wiki/最新IPTV直播源m3u8下载，电视直播网站推荐)
 
@@ -24,8 +23,8 @@
 3. 10086IPTV https://github.com/sheng007/10086-IPTV
 4. 世界IPTV库, 内容全： https://github.com/iptv-org/iptv
 5. IPTVM3U,  https://github.com/Sphinxroot/IPTVM3U
-6. m3ulist有小姐姐，https://github.com/snow922841/m3ulist
-7. [一键管理iptv脚本] https://github.com/woniuzfb/iptv
+6. [一键管理iptv脚本] https://github.com/woniuzfb/iptv
+7. [iptv-pro.github.io] https://github.com/iptv-pro/iptv-pro.github.io
 
 # PC直播源软件推荐
 
@@ -40,4 +39,6 @@
 
 - https://github.com/biancangming/wtv/tree/master/m3uMaker
 
+# 有兴趣关注我的微信公众号，一个橙子pro
 
+<img src="https://user-images.githubusercontent.com/42108047/173232153-a4a60817-cba0-4f0a-8ccb-f26e197314f9.jpg" width="200" height="200" alt="一个橙子pro"/>
